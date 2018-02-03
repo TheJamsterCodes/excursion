@@ -1,0 +1,35 @@
+@charset "UTF-8";
+/* CSS Document */
+
+* {
+	font-family: "Verdana", sans-serif;
+	background-color: black;
+	text-align: center;
+}
+
+h1 {
+	font-weight: normal;
+	font-size: 50px;
+	color: white;
+}
+
+h2 {
+	font-weight: 300;
+	font-size: 42px;
+	color: white;
+}
+
+h3 {
+	color: aquamarine;
+	font-size: 16px
+}
+
+p {
+	font-size: 21px;
+	color: gray;
+}
+#copyright {
+	text-align: right;
+	color: gray;
+	padding-right: 20px;
+}
